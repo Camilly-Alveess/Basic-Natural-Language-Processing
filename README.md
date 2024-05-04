@@ -20,14 +20,6 @@ A aplicação é uma ferramenta de processamento de texto que utiliza técnicas 
   - ReportLab
   - Tkinter
 
-## Como Usar
-
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter instalado todas as dependências listadas nos requisitos.
-3. Execute o arquivo `main.py` para iniciar a ferramenta.
-4. Escolha entre inserir um texto manualmente ou carregar de um arquivo.
-5. A ferramenta processará o texto e gerará um relatório em formato PDF com os resultados.
-
 ## Estrutura do Projeto
 
 - **main.py:** Arquivo principal que coordena a execução da ferramenta.
@@ -38,6 +30,17 @@ A aplicação é uma ferramenta de processamento de texto que utiliza técnicas 
 - **sumy_utils.py:** Módulo para resumo automático usando Sumy.
 - **user_interface.py:** Módulo para interação com o usuário usando Tkinter.
 
-## Contribuição
+## Como Usar
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor novas funcionalidades.
+1. Clone este repositório em sua máquina local.
+2. Certifique-se de ter instalado todas as dependências listadas nos requisitos.
+3. Execute o arquivo `main.py` para iniciar a ferramenta.
+4. Escolha entre inserir um texto manualmente ou carregar de um arquivo.
+5. A ferramenta processará o texto e gerará um relatório em formato PDF com os resultados.
+
+
+
+
+* Este projeto foi desenvolvido por *Camilly Alves*.
+
+Sugestões são sempre bem-vindas! =)
